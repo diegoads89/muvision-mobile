@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://github.com/diegoads89/muvision-mobile/releases/download/base-v1",
   "patchUrl": "https://raw.githubusercontent.com/diegoads89/muvision-mobile/main",
-  "minApk": 1,
+  "minApk": 2,
   "patches": [],
   "revision": 0,
   "base": {
@@ -61,5 +61,6 @@
         "sha256": "19e670279c9aa0cc89318a82896f441e3907855f59ffd667a9e870ce7787da75"
       }
     ]
-  }
+  },
+  "apkUrl": "https://github.com/diegoads89/muvision-mobile/releases/download/apk-v2/MUGlory-Mobile-2.apk"
 }
