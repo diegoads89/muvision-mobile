@@ -1,0 +1,65 @@
+{
+  "baseUrl": "https://github.com/diegoads89/muvision-mobile/releases/download/base-v1",
+  "patchUrl": "https://raw.githubusercontent.com/diegoads89/muvision-mobile/main",
+  "minApk": 1,
+  "patches": [],
+  "revision": 0,
+  "base": {
+    "version": 1,
+    "revision": 0,
+    "minInstalled": 1,
+    "installedSize": 2353609771,
+    "parts": [
+      {
+        "name": "base1_01.zip",
+        "size": 159203172,
+        "sha256": "d36c188c3ab3c7671db7b1130aa60e6b0b73b254d225b8828528ce2f63bd8270"
+      },
+      {
+        "name": "base1_02.zip",
+        "size": 158436190,
+        "sha256": "9615b9617b57df67cac49e6bf72d01a93a7e3f2cc5e36cf70ab31e323b219910"
+      },
+      {
+        "name": "base1_03.zip",
+        "size": 157689851,
+        "sha256": "af05058bc14cec80ef4e6589e2d92d66d2bdfd41e63dd03ea1b3f49d01aa7b37"
+      },
+      {
+        "name": "base1_04.zip",
+        "size": 159103757,
+        "sha256": "c9c23fc1a8900d546c55c54d821b7fd8b8e8b9374b8de9904f1f3a247f061cdd"
+      },
+      {
+        "name": "base1_05.zip",
+        "size": 157415501,
+        "sha256": "03675d21bd39aa09d6150896031f564246a2f0c30625ce5566d745178e5861a1"
+      },
+      {
+        "name": "base1_06.zip",
+        "size": 157656204,
+        "sha256": "792e264fd921bcc589cc602385411ed40cf14e962a26de1205af134fe00f4eb6"
+      },
+      {
+        "name": "base1_07.zip",
+        "size": 157632293,
+        "sha256": "498a5d6a58073a2c5458930a4da0df79c806ed405f6038c9d5f7f9f93fcd6ad5"
+      },
+      {
+        "name": "base1_08.zip",
+        "size": 160982689,
+        "sha256": "c97db381920190745155c4149edd67617154c5c994a891180e424372e20c85ce"
+      },
+      {
+        "name": "base1_09.zip",
+        "size": 157384812,
+        "sha256": "a71775317fb28fdbdac4dce03529995141208ad2aaf2ad88e3e4957bb92463b1"
+      },
+      {
+        "name": "base1_10.zip",
+        "size": 116495046,
+        "sha256": "19e670279c9aa0cc89318a82896f441e3907855f59ffd667a9e870ce7787da75"
+      }
+    ]
+  }
+}
